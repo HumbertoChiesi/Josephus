@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=TestaListaDuplamenteLigadaCircular
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=l
+comment2.target=void\ mostrarLista(IListaDuplamenteLigadaCircular)
+comment2.text=\r\n\ Metodo\ mostrarLista\r\n\r\n\ @param\ l\ lista\ ligada\r\n
+numComments=3

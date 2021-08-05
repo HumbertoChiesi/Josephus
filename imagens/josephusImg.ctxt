@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=josephusImg
+comment1.params=
+comment1.target=josephusImg()
+comment2.params=
+comment2.target=javax.swing.ImageIcon\ getImgVivo()
+comment3.params=
+comment3.target=javax.swing.ImageIcon\ getImgMorto()
+comment4.params=
+comment4.target=javax.swing.ImageIcon\ getImgSobreviveu()
+comment5.params=
+comment5.target=javax.swing.ImageIcon\ getImgArmaAntes()
+comment6.params=
+comment6.target=javax.swing.ImageIcon\ getImgArmaDepois()
+numComments=7

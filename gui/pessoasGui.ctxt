@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=pessoasGui
+comment1.params=qntd\ telaPrincipal
+comment1.target=pessoasGui(int,\ javax.swing.JFrame)
+comment2.params=qntd\ img
+comment2.target=void\ inserirLabelsPessoas(int,\ javax.swing.ImageIcon)
+comment3.params=qntd\ img
+comment3.target=void\ inicializarLabels(int,\ javax.swing.ImageIcon)
+comment4.params=img
+comment4.target=void\ inserirArma(javax.swing.ImageIcon)
+numComments=5

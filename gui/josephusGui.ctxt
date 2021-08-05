@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=josephusGui
+comment1.params=qntdPessoas\ intervalo\ tempoEspera
+comment1.target=josephusGui(int,\ int,\ int)
+comment2.params=
+comment2.target=void\ mostrarGui()
+comment3.params=qntd
+comment3.target=void\ criarListaPessoas(int)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=
+comment5.target=void\ iniciar()
+comment6.params=qntd\ intervalo\ tempo
+comment6.target=void\ atualizarIniciar(int,\ int,\ int)
+comment7.params=
+comment7.target=void\ reiniciar()
+numComments=8

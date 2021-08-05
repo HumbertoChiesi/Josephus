@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=entradasGui
+comment1.params=qntd\ intervalo\ tempoEspera\ telaPrincipal
+comment1.target=entradasGui(int,\ int,\ int,\ javax.swing.JFrame)
+comment2.params=
+comment2.target=void\ inserirLabelsEntradas()
+comment3.params=
+comment3.target=void\ inserirLabelsEntradasBttn()
+numComments=4
