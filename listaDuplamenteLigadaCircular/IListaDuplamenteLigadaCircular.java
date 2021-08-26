@@ -1,7 +1,6 @@
 package listaDuplamenteLigadaCircular; 
 
 /**
- * @author Julio Arakaki
  * @version 20190520
  */
 public interface IListaDuplamenteLigadaCircular{
