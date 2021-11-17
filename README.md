@@ -1,4 +1,4 @@
 # Josephus
-Demonstração visual do algoritmo de Josephus
 
-![image](https://i.ibb.co/tYKWh1V/josephus.png)
+### Demonstração visual do algoritmo de Josephus
+![gif](https://s1.gifyu.com/images/josephus1.gif)
